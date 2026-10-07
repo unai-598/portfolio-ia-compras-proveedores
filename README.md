@@ -1,6 +1,6 @@
 # Evaluación de proveedores para la renovación de 2027
 
-**Caso práctico de IA aplicada a compras y análisis de datos** · Empresa y datos ficticios
+**Caso práctico de IA aplicada a compras y análisis de datos usando chatGPT Work** · Empresa y datos ficticios
 
 [Explorar el portfolio](https://unai-598.github.io/portfolio-ia-compras-proveedores/) · [Ver los entregables](#entregables)
 
