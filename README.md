@@ -8,10 +8,10 @@ Caso práctico de IA aplicada a una decisión de compras. A partir de un conjunt
 
 ## Entregables
 
-- [Análisis de proveedores](dist/archivos/Analisis_Proveedores.xlsx)
-- [Recomendación de renovación](dist/archivos/Recomendacion_Renovacion.docx)
-- [Presentación para comité](dist/archivos/Comite_Compras.pptx)
-- [Página del portfolio](dist/index.html)
+- [Análisis de proveedores](docs/archivos/Analisis_Proveedores.xlsx)
+- [Recomendación de renovación](docs/archivos/Recomendacion_Renovacion.docx)
+- [Presentación para comité](docs/archivos/Comite_Compras.pptx)
+- [Página del portfolio](docs/index.html)
 
 ## Límites
 
